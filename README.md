@@ -25,7 +25,7 @@ This project is a base for a full-fledged Synthetic Indices trading simulator th
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/trading-simulator.git
+   git clone https://github.com/honeMVB/trading-simulator.git
    cd trading-simulator
 
 2. **Install Dependencies:**
