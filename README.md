@@ -26,7 +26,7 @@ This project is a base for a full-fledged Synthetic Indices trading simulator th
 
    ```bash
    git clone https://github.com/honeMVB/Deriv-Simulator
-   cd trading-simulator
+   cd Deriv-Simulator
 
 2. **Install Dependencies:**
 
